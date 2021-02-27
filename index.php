@@ -9,15 +9,17 @@
     <meta content="" property="og:image">
     <title>Заголовок сайта</title>
     <link href="src/css/main.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,700&display=swap"
-          rel="stylesheet">
 </head>
 <body>
 <header>
 </header>
 
 <section>
-    Hello Word
+    <div class="b-top-block">
+        <h1 class="b-title b-title_h1">
+            Заголовок
+        </h1>
+    </div>
 </section>
 
 <footer>
