@@ -15,9 +15,6 @@
 </header>
 
 <section>
-    <?
-        include("php/lw3.php");
-    ?>
 </section>
 
 <footer>
