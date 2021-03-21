@@ -14,7 +14,18 @@
 <header>
 </header>
 
-<section>
+<section class="container">
+    <div class="b-top-block">
+        <img class="b-top-block__image" src="upload/images/top-block/photo.jpg" alt="Jane Doe photo">
+        <div class="b-top-block__text">
+            <p class="b-text__quote">
+                Мы берем на себя много, потому что мало чего боимся
+            </p>
+            <span class="b-text__quote-author">
+                — Том Демарко. Deadline
+            </span>
+        </div>
+    </div>
 </section>
 
 <footer>

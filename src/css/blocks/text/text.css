@@ -1,4 +1,18 @@
-.b-text
+.b-text__quote
 {
-    font: 500 18px/1.1 "Euclid Circular B", sans-serif;
+    font-family: "Georgia", sans-serif;
+    font-size: 28px;
+    font-style: italic;
+    line-height: 42px;
+    max-width: 470px;
+    color: #848484;
+}
+
+.b-text__quote-author
+{
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 42px;
+    color: #333333;
 }
