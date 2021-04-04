@@ -1,0 +1,24 @@
+.top-block__background
+{
+    padding: 200px 0;
+    background: url("../../../../upload/images/top-block/top-block.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.top-block__image
+{
+    display: block;
+    max-width: 100%;
+    margin-right: 60px;
+    border-radius: 5px;
+}
+
+.top-block__content
+{
+    display: flex;
+}
+
+.top-block__text-block
+{
+    margin-top: 30px;
+}

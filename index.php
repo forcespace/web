@@ -8,13 +8,32 @@
     <meta content="ips.web" property="og:description">
     <meta content="ips.web" property="og:image">
     <title>ips.web</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
     <link href="src/css/main.css" rel="stylesheet">
 </head>
 <body>
-<header>
-</header>
 
+<?
+    include_once('php/header/header.php');
+?>
 
+<div class="top-block">
+    <div class="top-block__background"></div>
+    <div class="top-block__content content">
+        <img class="top-block__image" src="upload/images/top-block/photo.jpg" alt="Jane Doe">
+        <div class="top-block__text-block">
+            <p class="top-block__text top-block__text_quote">
+                Мы берем на себя много, потому что мало чего боимся
+            </p>
+            <span class="top-block__text top-block__text_author">
+                — Том Демарко. Deadline
+            </span>
+            <h1 class="top-block__title">
+                Jane Doe
+            </h1>
+        </div>
+    </div>
+</div>
 
 <footer>
 </footer>

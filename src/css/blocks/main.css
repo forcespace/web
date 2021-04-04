@@ -1,5 +1,4 @@
-@import "top-block/top-block.css";
-@import "footer/footer.css";
-@import "header/header.css";
-@import "title/title.css";
-@import "text/text.css";
+@import 'top-block/top-block.css';
+@import 'footer/footer.css';
+@import 'header/header.css';
+@import 'title-text/title-text.css';

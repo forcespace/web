@@ -1,0 +1,34 @@
+.top-block__title
+{
+    font: 600 48px/1 'Open Sans', sans-serif;
+    position: relative;
+    margin-top: 85px;
+}
+
+.top-block__title::before
+{
+    position: absolute;
+    bottom: -24px;
+    left: 0;
+    width: 60px;
+    height: 6px;
+    content: '';
+    border-radius: 6px;
+    background: #359077;
+}
+
+.top-block__text
+{
+    color: #fff;
+}
+
+.top-block__text_quote
+{
+    font: 400 28px/1.5 'Georgia', sans-serif;
+    font-style: italic;
+}
+
+.top-block__text_author
+{
+    font: 400 16px/2.62 'Open Sans', sans-serif;
+}

@@ -1,5 +1,4 @@
-@import "blocks/main.css";
-@import "vendor/main.css";
-@import "stylesheet.css";
-@import "blocks/title";
-@import "page/page.css";
+@import 'blocks/main.css';
+@import 'vendor/main.css';
+@import 'page/page.css';
+@import 'stylesheet.css';
