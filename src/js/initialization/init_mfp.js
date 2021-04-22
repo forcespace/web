@@ -2,7 +2,6 @@ $(window).on("load", function ()
 {
     InitPopupWindows();
     InitPopupWindowsVideo();
-    console.log('тут')
 });
 
 function InitPopupWindows()

@@ -42,5 +42,6 @@
 <script src="src/js/vendor/jquery.scrollTo.js"></script>
 <script src="src/js/vendor/mfp.js"></script>
 <script src="src/js/initialization/init_mfp.js"></script>
+<script src="src/js/primeNumbers/primeNumbers.js"></script>
 </body>
 </html>
